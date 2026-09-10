@@ -1,0 +1,33 @@
+{
+  "role": "admin",
+  "responses": {
+    "location": {
+      "question": "Primary location",
+      "value": "Riverbank Zone"
+    },
+    "event": {
+      "question": "Trigger event",
+      "value": "Flash flood"
+    },
+    "population_affected": {
+      "question": "Estimated population affected",
+      "value": "500"
+    },
+    "evacuation_required": {
+      "question": "Immediate evacuation",
+      "value": "Yes"
+    },
+    "severity": {
+      "question": "Severity level",
+      "value": "High"
+    },
+    "available_resources": {
+      "question": "Available resources",
+      "value": "2 rescue boats, 1 medical team"
+    },
+    "custom_notes": {
+      "question": "Scenario notes",
+      "value": "Water is rising quickly; the eastern road may become blocked after heavy rain."
+    }
+  }
+}

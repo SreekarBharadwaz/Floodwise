@@ -1,0 +1,21 @@
+{
+  "role": "user",
+  "responses": {
+    "location": {
+      "question": "Current location",
+      "value": "Riverbank Zone"
+    },
+    "people": {
+      "question": "People with me",
+      "value": "5"
+    },
+    "condition": {
+      "question": "Current condition",
+      "value": "Water entering homes"
+    },
+    "custom_notes": {
+      "question": "Citizen report",
+      "value": "The eastern road is partially blocked and several families need evacuation transport."
+    }
+  }
+}

@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+openai
+gliner
+spacy
+rapidfuzz
+torch
+transformers
+pydantic
+requests
